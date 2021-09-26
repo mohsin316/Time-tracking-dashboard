@@ -13,7 +13,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-htmlcss-js-asyncawait-and-transition-mLVMcONG2)
+- [Solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-htmlcss-js-asyncawait-and-transition-d1kL5GKaT)
 - [Live Site URL](https://mohsin316.github.io/Time-tracking-dashboard/)
 
 ## My process
