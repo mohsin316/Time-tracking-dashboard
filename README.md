@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-htmlcss-js-asyncawait-and-transition-mLVMcONG2)
+- [Live Site URL](https://mohsin316.github.io/Time-tracking-dashboard/)
 
 ## My process
 
@@ -61,10 +61,3 @@ For future plans for now its to do more and more javascript. I just recently fin
 ### Useful resources
 
 - [Example resource 1](https://netninja.dev/courses) - This helped me for Studying javascript. I really liked this course and i highly recommend to begginers.
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
