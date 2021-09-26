@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-htmlcss-js-asyncawait-and-transition-mLVMcONG2)
+- [Solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-htmlcss-js-asyncawait-and-transition-d1kL5GKaT)
 - [Live Site URL](https://mohsin316.github.io/Time-tracking-dashboard/)
 
 ## My process
