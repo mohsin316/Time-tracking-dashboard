@@ -13,8 +13,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Author](#author)
 
 ## Overview
 
@@ -59,4 +58,11 @@ For future plans for now its to do more and more javascript. I just recently fin
 
 ### Useful resources
 
-- [Example resource 1](https://netninja.dev/courses) - This helped me for Studying javascript. I really liked this course and i highly recommend to begginers.
+- [net ninja](https://netninja.dev/courses) - This helped me for Studying javascript. I really liked this course and i highly recommend to begginers.
+- [Kevin Powell](https://www.youtube.com/kepowob) - This person is extremely talented and has helped me learn most of the things i know in CSS. highly recommend to anyone who is studying CSS.
+## Author
+
+- [My website](https://mohsins-solutions.netlify.app/)
+- Frontend Mentor - [@mohsin316](https://www.frontendmentor.io/profile/mohsin316)
+- Twitter - [@Mohsin_316](https://twitter.com/Mohsin_316)
+- Instagram - [@mohsin.k21](https://www.instagram.com/mohsin.k21/)
